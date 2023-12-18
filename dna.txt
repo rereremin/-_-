@@ -1,0 +1,8 @@
+Sequence: ATCTATCATGCTAGC 
+Length: 15 
+Molecular weight: 4588.98 g/mole
+Complementary strand: TAGATAGTACGATCG 
+Reverse complementary starnd: GCTAGCATGATAGAT 
+mRNA: atctatcatgctagc 
+Melting temperature is 30°C.
+Number of hydrogen bounds: 36.

@@ -1,0 +1,14 @@
+Protein: MMATATGATDGKKRQ
+Number of aminoacids: 15
+Molecular weight: 1548.84 g/mole
+Percentage of gydrophobic aminoacids: 33.3333%
+Percentage of aromatic aminoacids: 0.0%
+Percentage of sulfur aminoacids: 13.3333%
+
+Protein: MNNNGD
+Number of aminoacids: 6
+Molecular weight: 645.66 g/mole
+Percentage of gydrophobic aminoacids: 16.6667%
+Percentage of aromatic aminoacids: 0.0%
+Percentage of sulfur aminoacids: 16.6667%
+
